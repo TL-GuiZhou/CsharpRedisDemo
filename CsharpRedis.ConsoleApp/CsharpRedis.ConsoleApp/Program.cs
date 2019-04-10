@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Configuration;
-using System.Text;
 using ServiceStack.Redis;
 
 namespace CsharpRedis.ConsoleApp
