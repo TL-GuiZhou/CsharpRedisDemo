@@ -8,5 +8,6 @@ namespace CsharpRedis.ConsoleApp
 {
     public class Class1
     {
+         
     }
 }
